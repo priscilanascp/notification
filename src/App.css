@@ -1,0 +1,83 @@
+
+
+
+
+.Sucess {
+    margin-top: 800px;
+    margin-left: 1550px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: rgb(30, 70, 32);
+    background-color: rgb(237, 247, 237);
+    border: 1px solid #008f18;
+    text-align: center;
+}
+
+button {
+    color: #000;
+    background-color: #fcfcfc;
+    border-color: #6c757d;
+    margin-left: 140px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    display: block;
+    font-weight: 200;
+    text-align: center;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+}
+
+p {
+    color: #6c757d;
+    font-weight: 10px;
+}
+
+.Error {
+    margin-top: 800px;
+    margin-left: 1550px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: rgb(192, 6, 6);
+    background-color: rgb(247, 237, 237);
+    border: 1px solid #8f0000;
+    
+    text-align: center;
+}
+
+.Alerta {
+    margin-top: 800px;
+    margin-left: 1550px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: rgb(230, 103, 0);
+    background-color: rgb(247, 237, 237);
+    border: 1px solid #eb760a;
+    
+    text-align: center;
+}
+
+.Bem-Vindo {
+    margin-top: 800px;
+    margin-left: 1550px;
+    width: 350px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: rgb(6, 34, 192);
+    background-color: #fff;
+    border: 1px solid #00218f;
+    
+    text-align: center;
+}
